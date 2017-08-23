@@ -1,0 +1,66 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CustomFrames="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+    android:id="@+id/filia_c_idle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:oneshot="false"
+    CustomFrames:align_x="50"
+    CustomFrames:align_y="133">
+
+    <item
+        android:drawable="@drawable/filia_c_idle_01"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_02"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_03"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_04"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_05"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_06"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_07"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_08"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_09"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_10"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_11"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_12"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_13"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_14"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_15"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_16"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_17"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_c_idle_18"
+        android:duration="50" />
+
+</animation-list>

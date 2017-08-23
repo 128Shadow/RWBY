@@ -1,0 +1,27 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CustomFrames="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+    android:id="@+id/filia_c_down"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:oneshot="false"
+    CustomFrames:align_x="35"
+    CustomFrames:align_y="56">
+
+    <item
+        android:drawable="@drawable/filia_crouch_down_01"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_crouch_down_02"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_crouch_down_03"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_crouch_down_04"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_crouch_down_05"
+        android:duration="50" />
+
+</animation-list>

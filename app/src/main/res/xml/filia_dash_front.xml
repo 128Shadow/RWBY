@@ -1,0 +1,48 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CustomFrames="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+    android:id="@+id/filia_dash_front"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:oneshot="false"
+    CustomFrames:align_x="-4"
+    CustomFrames:align_y="47">
+
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_dash_front_01"
+        android:duration="50"
+        CustomMovement:move_x="150"
+        CustomMovement:move_y="-20"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_dash_front_02"
+        android:duration="50"
+        CustomMovement:move_x="150"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_dash_front_03"
+        android:duration="50"
+        CustomMovement:move_x="150"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_dash_front_04"
+        android:duration="50"
+        CustomMovement:move_x="150"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_dash_front_05"
+        android:duration="50"
+        CustomMovement:move_x="150"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_dash_front_06"
+        android:duration="50"
+        CustomMovement:move_x="150"
+        CustomMovement:move_y="20"/>
+
+</animation-list>

@@ -1,0 +1,31 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CustomFrames="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+    android:id="@+id/filia_block"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:oneshot="false"
+    CustomFrames:align_x="-5"
+    CustomFrames:align_y="48">
+
+    <item
+        android:drawable="@drawable/filia_block_01"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_block_02"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_block_03"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_block_04"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_block_05"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_block_06"
+        android:duration="50" />
+
+
+</animation-list>

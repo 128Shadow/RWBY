@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomFrames">
+        <attr name="frame_change" format="integer" />
+        <attr name="align_x" format="integer" />
+        <attr name="align_y" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="CustomMovement">
+        <attr name="move_x" format="integer" />
+        <attr name="move_y" format="integer" />
+
+        <attr name="attack_align_x" format="integer" />
+        <attr name="attack_align_y" format="integer" />
+        <attr name="attack_width" format="integer" />
+        <attr name="attack_height" format="integer" />
+        <attr name="hit_align_x" format="integer" />
+        <attr name="hit_align_y" format="integer" />
+        <attr name="hit_width" format="integer" />
+        <attr name="hit_height" format="integer" />
+    </declare-styleable>
+</resources>

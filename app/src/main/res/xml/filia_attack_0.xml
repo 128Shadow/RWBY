@@ -1,0 +1,53 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CustomFrames="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+    android:id="@+id/filia_attack_0"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:oneshot="false"
+    CustomFrames:frame_change="5"
+    CustomFrames:align_x="-44"
+    CustomFrames:align_y="30">
+
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_attack_0_01"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_attack_0_02"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_attack_0_03"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0"
+        CustomMovement:attack_align_x="214"
+        CustomMovement:attack_align_y="98"
+        CustomMovement:attack_width="138"
+        CustomMovement:attack_height="30"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_attack_0_04"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_attack_0_05"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_attack_0_06"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0"/>
+
+</animation-list>

@@ -1,0 +1,102 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CustomFrames="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+    android:id="@+id/filia_charge"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:oneshot="false"
+    CustomFrames:align_x="37"
+    CustomFrames:align_y="64" >
+
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_01"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_02"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_03"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_04"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_05"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_06"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_07"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_08"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_09"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_10"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_11"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_12"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_13"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_14"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_charge_15"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0" />
+
+</animation-list>

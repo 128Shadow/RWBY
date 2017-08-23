@@ -1,0 +1,30 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CustomFrames="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+    android:id="@+id/filia_throw"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:oneshot="false"
+    CustomFrames:align_x="-75"
+    CustomFrames:align_y="-22">
+
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_throw_01"
+        android:duration="50"
+        CustomMovement:move_x="20"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_throw_02"
+        android:duration="50"
+        CustomMovement:move_x="20"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_throw_03"
+        android:duration="50"
+        CustomMovement:move_x="20"
+        CustomMovement:move_y="0"/>
+
+</animation-list>

@@ -1,0 +1,19 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CustomFrames="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+    android:id="@+id/filia_block_to_stand"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:oneshot="false"
+    CustomFrames:align_x="-5"
+    CustomFrames:align_y="48">
+
+    <item
+        android:drawable="@drawable/filia_block_to_stand_01"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/filia_block_to_stand_02"
+        android:duration="50" />
+
+
+</animation-list>

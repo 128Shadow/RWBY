@@ -1,0 +1,61 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CustomFrames="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+    android:id="@+id/filia_swipe_right_0"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:oneshot="false"
+    CustomFrames:frame_change="6"
+    CustomFrames:align_x="-43"
+    CustomFrames:align_y="26" >
+
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_swipe_right_0_01"
+        android:duration="50"
+        CustomMovement:move_x="20"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_swipe_right_0_02"
+        android:duration="50"
+        CustomMovement:move_x="20"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_swipe_right_0_03"
+        android:duration="50"
+        CustomMovement:move_x="20"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_swipe_right_0_04"
+        android:duration="50"
+        CustomMovement:move_x="20"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_swipe_right_0_05"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_swipe_right_0_06"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_swipe_right_0_07"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0"/>
+    <item
+        xmlns:CustomMovement="http://schemas.android.com/apk/res/ogd.rwbyrisingstorms"
+        android:drawable="@drawable/filia_swipe_right_0_08"
+        android:duration="50"
+        CustomMovement:move_x="0"
+        CustomMovement:move_y="0"/>
+
+</animation-list>
